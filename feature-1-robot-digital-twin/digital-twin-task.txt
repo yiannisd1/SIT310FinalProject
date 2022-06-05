@@ -1,0 +1,1 @@
+My robot connected to the gazebo software with ROS. Gazebo is a 3D simulator that accurately simulates robots. This program allowed for the robot to simulate each of its movements and display them on Gazebo. I was able to achieve that by integrating ROS 2 with gazebo and then launching my robot using ROS 2.
